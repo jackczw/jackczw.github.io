@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>jackczw</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-03-03T15:54:47.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mr_陈智伟</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test for hexo3</title>
+    <link href="http://yoursite.com/2017/03/03/test-for-hexo3/"/>
+    <id>http://yoursite.com/2017/03/03/test-for-hexo3/</id>
+    <published>2017-03-03T12:18:33.000Z</published>
+    <updated>2017-03-03T15:54:47.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;first&quot;&gt;&lt;a href=&quot;#first&quot; class=&quot;headerlink&quot; title=&quot;first&quot;&gt;&lt;/a&gt;first&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;[Hexo](https://hexo.io/)
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;second&quot;&gt;&lt;a href=&quot;#second&quot; class=&quot;headerlink&quot; title=&quot;second&quot;&gt;&lt;/a&gt;second&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;[Hexo](https://hexo.io/)
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;third&quot;&gt;&lt;a href=&quot;#third&quot; class=&quot;headerlink&quot; title=&quot;third&quot;&gt;&lt;/a&gt;third&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;[Hexo](https://hexo.io/)
+&lt;/code&gt;&lt;/pre&gt;&lt;img src=&quot;/2017/03/03/test-for-hexo3/2.jpeg&quot; alt=&quot;This is an example image&quot; title=&quot;This is an example image&quot;&gt;
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test for hexo2</title>
+    <link href="http://yoursite.com/2017/03/03/test-for-hexo2/"/>
+    <id>http://yoursite.com/2017/03/03/test-for-hexo2/</id>
+    <published>2017-03-03T12:13:44.000Z</published>
+    <updated>2017-03-03T14:40:38.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test for hexo</title>
+    <link href="http://yoursite.com/2017/03/03/test-for-hexo/"/>
+    <id>http://yoursite.com/2017/03/03/test-for-hexo/</id>
+    <published>2017-03-03T12:13:13.000Z</published>
+    <updated>2017-03-03T14:40:33.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ppooooooooooo</title>
+    <link href="http://yoursite.com/2017/03/03/pp/"/>
+    <id>http://yoursite.com/2017/03/03/pp/</id>
+    <published>2017-03-03T09:38:57.000Z</published>
+    <updated>2017-03-03T09:39:56.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/03/03/hello-world/"/>
+    <id>http://yoursite.com/2017/03/03/hello-world/</id>
+    <published>2017-03-03T08:45:17.000Z</published>
+    <updated>2017-03-03T08:45:17.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
